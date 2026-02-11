@@ -1,0 +1,34 @@
+body {
+  cursor: url("cursor/Normal Select.cur") 8 8, auto;
+  background-color: rgb(208, 225, 208);
+}
+
+input, textarea {
+  cursor: url("cursor/Text Select.cur") 8 8, text;
+}
+
+a, button {
+  cursor: url("cursor/Link Select.cur") 8 8, pointer;
+}
+
+
+.draggable {
+  cursor: url("cursor/Move.cur") 8 8, move;
+}
+
+.resizing {
+  cursor: url("cursor/Resize Diagonal.cur") 8 8, nwse-resize;
+}
+
+.waiting {
+  cursor: url("cursor/Busy.cur") 8 8, wait;
+}
+
+.progress {
+  cursor: url("cursor/Precision Select.cur") 8 8, progress;
+}
+
+.unavailable {
+  cursor: url("cursor/Unavailable.cur") 8 8, not-allowed;
+}
+
