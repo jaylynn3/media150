@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Jaylynn Hemmings</title>
+    <link rel="stylesheet" href="style.css">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Lobster&display=swap" rel="stylesheet">
+</head>
+<body>
+    <a href="index.html">Home</a>
+    <a href="homework1.html"> HW1</a>
+    <a href="homework2.html"> HW2 </a>
+    <a href="homework3.html"> HW3 </a>
+    <a href="homework4.html"> HW4 </a>
+
+    <h1 class="lobster-regular">
+        Social Campaign – Photomontage
+    </h1>
+    <img src="images/photomontage copy.jpg" alt="photomontage">
+
+    <p>This photomontage is an amalgamation of various foods. Theres different kinds of foods from
+        different cultures, with different tastes, and could be considered foods for different
+        times of day. Food is a necessary source of life for all people but unfortunately, not everyone has 
+        easy access to food each day. food insecurity is a social issue and the concept I had in mind when
+        creating my photomontage. 
+    </p>
