@@ -1,6 +1,7 @@
 body {
   cursor: url("cursor/Normal Select.cur") 8 8, auto;
   background-color: rgb(208, 225, 220);
+  background-image: url("");
 }
 
 input, textarea {
@@ -62,3 +63,5 @@ ul li a {
 ul li a:hover {
   background-color: #111111;
 }
+
+
