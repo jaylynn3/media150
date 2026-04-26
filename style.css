@@ -1,7 +1,7 @@
 body {
   cursor: url("cursor/Normal Select.cur") 8 8, auto;
-  background-color: rgb(208, 225, 220);
-  background-image: url("");
+  /*background-color: rgb(208, 225, 220);*/
+  background-image: url("https://i.pinimg.com/originals/b7/44/9d/b7449d847c1f39c43f1e180c1120838d.gif");
 }
 
 input, textarea {
