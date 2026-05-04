@@ -1,7 +1,7 @@
 body {
   cursor: url("cursor/Normal Select.cur") 8 8, auto;
   /*background-color: rgb(208, 225, 220);*/
-  background-image: url("https://i.pinimg.com/originals/b7/44/9d/b7449d847c1f39c43f1e180c1120838d.gif");
+  background-image: url("https://i.pinimg.com/736x/4b/95/d1/4b95d140f14292a394a12706639625d9.jpg");
 }
 
 input, textarea {
@@ -44,8 +44,9 @@ ul {
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: #000000;
+  background-color: rgba(102, 102, 102, 0.096);
   display: flex;
+  border-radius: 15px;
 }
 
 ul li {
@@ -54,14 +55,16 @@ ul li {
 
 ul li a {
   display: block;
-  color: white;
+  color: black;
   text-align: center;
   padding: 14px 16px;
+  margin-left: 15px;
   text-decoration: none;
+  font-weight: 550;
 }
 
 ul li a:hover {
-  background-color: #111111;
+  background-color: rgba(76, 76, 76, 0.096);
 }
 
 
