@@ -106,19 +106,30 @@ ul li a:hover {
   width: 100%;             
 }
 
-.about{
-  .about-section {
+.about {
   display: flex;
   align-items: flex-start;
   gap: 30px;
   flex-wrap: wrap;
 }
 
-.aboutp {
+.about p {
   flex: 1;
   margin: 0;
   line-height: 1.6;
 }
+
+.introphoto img {
+  display: block;
+}
+
+.jaylynn-img {
+  border-radius: 15px;
+}
+
+.jaylynn-img:hover {
+  transform: rotate(3deg);
+  transition: transform 0.3s ease;
 }
 
 .play{
